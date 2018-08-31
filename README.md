@@ -1,2 +1,1 @@
-# Proyecto1
-Aprendiendo git
+Project1 
